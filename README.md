@@ -1,2 +1,2 @@
 # Fundamentos-de-Programa-o
-Códigos desenvolvidos na disciplina de Fundamentos de Programação
+Códigos desenvolvidos na disciplina de Fundamentos de Programacao
